@@ -1,11 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 86EA-DEF2
-
- Directory of C:\Users\sunil.thavitireddy\Desktop\branch
-
-27-09-2021  11:14    <DIR>          .
-27-09-2021  11:14    <DIR>          ..
-27-09-2021  11:11                 8 README.md
-27-09-2021  11:14                 0 sunil.txt
-               2 File(s)              8 bytes
-               2 Dir(s)  114,817,773,568 bytes free
+deleted
